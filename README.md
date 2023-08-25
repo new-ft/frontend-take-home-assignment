@@ -31,7 +31,7 @@ const options = [
 
 ### Technology guidelines
 
-- **Technology Stack:** You must use React for this assignment. You may also use Next.js as your framework if you prefer.
+- **Technology Stack:** You must use React for this assignment. Feel free to bootstrap the project in the way you're most comfortable with (Vite, Next.js etc)
 - **Styling:** We use [TailwindCSS](https://tailwindcss.com/) internally, but you may use vanilla CSS or any other library you prefer.
 - **TypeScript:** It's not a mandatory requirement for this assignment, you are welcome to use it if you prefer.
 - **Tests:** Implement tests to ensure the functionality and reliability of your component.
