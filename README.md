@@ -6,7 +6,7 @@ Thank you for your interest in joining our team as a Senior Frontend Engineer. A
 
 ## Objective
 
-Your primary task is to develop a reusable Dropdown Select component using React. This component should allow users to select a single option from a list and should be versatile enough to be used in forms and multiple instances on the same page. Additionally, the component should be compatible with our existing design system for styling.
+Your primary task is to develop a reusable Dropdown Select component using React. This component should allow users to select a single option from a list and should be versatile enough to be used in forms and multiple instances on the same page. 
 
 ## Component API Example
 
