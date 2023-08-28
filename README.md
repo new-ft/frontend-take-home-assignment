@@ -44,7 +44,7 @@ This section outlines the functionalities and features that the Dropdown Select 
 
 - **Dropdown label:** The component should include a label that serves as a placeholder when no option is selected. Once an option is selected, the label should be replaced by the selected item.
 
-- **Open/close menu handler:** Implement the functionality to open and close the dropdown menu. Consider using state management to toggle the visibility of the dropdown menu.
+- **Open/close menu handler:** Implement the functionality to open and close the dropdown menu.
 
 - **Select:** Add the logic to handle the selection of items within the dropdown menu. The selected item should be displayed in the input field, and the `onChange` callback should be triggered.
 
