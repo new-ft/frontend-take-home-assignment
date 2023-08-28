@@ -54,6 +54,8 @@ This section outlines the functionalities and features that the Dropdown Select 
 
 - **onChange Callback:** Implement an `onChange` callback function that will be triggered when an item is selected or deselected. This function should pass the selected value as an argument.
 
+- **Keyboard navigation:** Implement keyboard navigation to allow users to navigate through the dropdown menu using the arrow keys and select items using the enter key.
+
 By following these steps, you should be able to create a Dropdown Select component that is both functional and aligned with our design guidelines.
 
 ### User Experience Guidelines
@@ -93,7 +95,6 @@ However you are totally free to choose your own color scheme if you believe it e
 If you found the core task to be relatively straightforward and are interested in going the extra mile, consider implementing the following optional features:
 
 - **Controlled component:** This means it should accept a `value` prop that controls the currently selected option. In addition, the component should also accept an `open` prop to allow the open/closed state of the dropdown menu to be controlled externally.
-- **Keyboard navigation:** Implement keyboard navigation to allow users to navigate through the dropdown menu using the arrow keys and select items using the enter key.
 - **Online Demo:** Deploy a live demo of your component using platforms like Netlify, Vercel, CodeSandbox etc.
 
 ### Delivery Instructions
