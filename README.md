@@ -6,7 +6,7 @@ Thank you for your interest in joining our team as a Senior Frontend Engineer. A
 
 ## Objective
 
-Your primary task is to develop a reusable Dropdown Select component using React. This component should allow users to select a single option from a list and should be versatile enough to be used in forms and multiple instances on the same page. 
+Your primary task is to develop a reusable Dropdown Select component using NextJS. This component should allow users to select a single option from a list and should be versatile enough to be used in forms and multiple instances on the same page. 
 
 ## Component API Example
 
@@ -29,7 +29,7 @@ const options = [
 
 ### Technology guidelines
 
-- **Technology Stack:** You must use React for this assignment. Feel free to bootstrap the project in the way you're most comfortable with (Vite, Next.js etc)
+- **Technology Stack:** You must use React and NextJS for this assignment.
 - **Styling:** We use [TailwindCSS](https://tailwindcss.com/) internally, but you may use vanilla CSS or any other library you prefer.
 - **TypeScript:** It's not a mandatory requirement for this assignment, you are welcome to use it if you prefer.
 - **Tests:** Implement tests to ensure the functionality and reliability of your component.
